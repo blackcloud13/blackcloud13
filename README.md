@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackcloud13
 - 👀 Data Science, AIML, Trading, Crypto
 - 🌱 Data Science, AIML, Trading, Crypto
-- 💞️ Cryptp
+- 💞️ Crypto Research
 - 📫 email blackcloud13xx@gmail.com
 
 <!---
